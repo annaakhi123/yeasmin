@@ -1,0 +1,30 @@
+
+
+
+.text_Big{
+    width: fit-content;
+    height: 20px;
+    padding: 5px;
+    font-size: 20px;
+    font-weight: bolder;
+    color: rgb(36, 36, 36);
+
+}
+.button{
+    height: 40px;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bolder;
+    color: rgb(36, 36, 36);
+}
+
+/* login_container style  */
+
+.login_container{
+    height: 400px;
+    background-color: rgba(253, 151, 151, 0.877);
+    font-size: 20px;
+    align-items: center;
+    padding: 20px;
+
+}
